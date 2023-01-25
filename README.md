@@ -1,4 +1,4 @@
-# 2022-23-schoool-projects
+# 2022-23-school-projects
 
 Feel free to fork this project, add your code and commit
 
